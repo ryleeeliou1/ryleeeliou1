@@ -1,47 +1,58 @@
-# 👋 Hey there, I'm Rylee!
+# 👋 Hi, I’m Rylee
 
-I am a Master's student in Computer Science (Software Engineering concentration), passionate about building reliable and intuitive systems and applications. My background in psychology and client-facing healthcare roles has shaped how I approach my projects: user-focused and grounded in real-world needs. 
+I’m a **backend-focused software engineer** building **data-driven systems** with Python and MySQL.
 
-I'm currently seeking **early-career software engineering opportunities for Spring/Summer 2026**, especially in backend, full-stack, or product-focused roles.
+I design **relational databases**, write **stored-procedure-driven APIs**, and build **business-logic layers** that validate, transform, and persist user data. My background in healthcare and psychology shapes how I build systems — with an emphasis on **data integrity, reliability, and real-world workflows**.
 
----
-
-# 🩷 Tech Stack & Tools
-
-<p align="left"> <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=openjdk&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL_Workbench-F4A7B9?style=for-the-badge&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/OOP-FCC9E3?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/Git-FCE2E2?style=for-the-badge&logo=git&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-FFDFDF?style=for-the-badge&logo=github&logoColor=black"/> <img src="https://img.shields.io/badge/VS_Code-FAD4EA?style=for-the-badge&logo=visual-studio-code&logoColor=black"/> </p>
+I’m currently completing my **M.S. in Computer Science (Software Engineering)** and graduating in **May 2026**, and I’m exploring **junior backend and data engineering roles** (remote, Philadelphia, or Pittsburgh).
 
 ---
 
-# 💻 Featured Work (Rebuilding and Updating) 
-I'm in the process of refreshing my GitHub to showcase intentional and well-rounded projects. Here is what I am working on and releasing soon: 
+## 🛠 Tech Stack
 
-## MRC Database Application (Python + MySQL)
-
-A full three-tier architecture (GUI → Business Logic → Data Access) interacting with stored procedures and functions. 
-#### Currently documenting for GitHub release.
-
-## Daily Reflection Journal (Rebuild in Progress)
-
-A polished, modern version of my journaling app with improved structure, database design, and UI flow.
-
-## Algorithm Portfolio
-
-A curated set of dynamic programming, graph, recursion, and sorting implementations with explanations.
-
-# What I'm Focusing on Now
-
-- Strengthening my backend engineering skills (Python, Java, SQL)
-- Designing database schemas with multi-layered architecture
-- Brushing up on algorithm & data structures (through LeetCode + coursework)
-- Build repositories that closely mirror real-world engineering practices 
+- **Python**
+- **SQL / MySQL**
+- Stored Procedures  
+- Relational Database Design  
+- 3-Tier Architecture (GUI → BLL → DAL)  
+- Git & GitHub  
+- VS Code  
 
 ---
 
-# 💌 Let’s Connect
+## 🚀 Featured Project
 
-I am always happy to collaborate or chat about software, school, and new ideas!
+### **Mood Journal — Backend Data Platform**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rylee-eliou)
-- 📫 rylee.eliou@comcast.net
+A **Python + MySQL** backend system designed to support:
 
-Thanks for stopping by 🤍
+- Multi-user mood and journal tracking  
+- Tagging and categorization  
+- Stored-procedure-based CRUD operations  
+- Aggregated reporting (weekly trends)  
+- CSV export for analysis  
+
+The system is built as a **3-tier architecture** with:
+
+- GUI  
+- Business Logic Layer  
+- Data Access Layer  
+- MySQL database  
+
+This project demonstrates:
+
+- Relational database design  
+- API-style stored procedures  
+- Data validation and integrity  
+- Analytics-ready backend workflows  
+
+👉 Repo: **Mood_Journal_Application**
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: https://www.linkedin.com/in/ryleeeliou  
+- Email: rylee.eliou@comcast.net  
+
+If you’re working on backend or data systems, I would love to connect!
