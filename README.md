@@ -12,6 +12,8 @@ I’m currently completing my **M.S. in Computer Science (Software Engineering)*
 
 - **Python**
 - **SQL / MySQL**
+- Tableau
+- Power BI
 - Stored Procedures  
 - Relational Database Design  
 - 3-Tier Architecture (GUI → BLL → DAL)  
