@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rylee
 
-I’m a **backend-focused software engineer** building **data-driven systems** with Python and MySQL.
+I’m an aspiring **backend-focused software engineer** building **data-driven systems** with Python and MySQL.
 
 I design **relational databases**, write **stored-procedure-driven APIs**, and build **business-logic layers** that validate, transform, and persist user data. My background in healthcare and psychology shapes how I build systems — with an emphasis on **data integrity, reliability, and real-world workflows**.
 
